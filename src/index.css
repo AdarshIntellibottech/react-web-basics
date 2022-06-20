@@ -1,0 +1,21 @@
+*{ margin:0; padding: 0; box-sizing: border-box;}
+
+.heading {
+  color: #e77070;
+  text-align: center;
+  text-transform: capitalize;
+  margin : 25px;
+
+  
+font-family: 'Dancing Script', cursive;
+
+}
+.image-div {
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.img{
+  margin: 10px;
+}
